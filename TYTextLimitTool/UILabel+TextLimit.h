@@ -2,8 +2,8 @@
 //  UILabel+TextLimit.h
 //  OCDemo
 //
-//  Created by anfeng on 2019/2/28.
-//  Copyright © 2019 anfeng. All rights reserved.
+//  Created by TY on 2019/2/28.
+//  Copyright © 2019 TY. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
