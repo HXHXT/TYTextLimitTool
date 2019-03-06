@@ -21,7 +21,7 @@ Add  TYTextLimitTool folders to your project.
 
 ## Usage
 
-**Limit Chinese, English, Number, Length **
+**Limit Chinese, English, Number, Length**
 
 ```
 self.textField.textLimitTool.model = Chinese | English;
@@ -58,7 +58,7 @@ self.textField4.text = @"123456789";
 [self.textField4.textLimitTool checkSpace];
 ```
 
-**UITextView usage is similar to UITextField **
+**UITextView usage is similar to UITextField**
 
 **UILabel mainly supports blank mode**
 
